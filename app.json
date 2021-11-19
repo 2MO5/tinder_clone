@@ -1,0 +1,12 @@
+{
+  "name": "expobare",
+  "displayName": "expobare",
+  "expo": {
+    "name": "expobare",
+    "slug": "expobare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
