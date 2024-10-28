@@ -8,17 +8,25 @@
     "test": "jest"
   },
   "dependencies": {
-    "expo": "~41.0.1",
-    "expo-updates": "~0.5.4",
-    "expo-splash-screen": "~0.10.2",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "react-native": "~0.63.4",
-    "react-native-gesture-handler": "~1.10.2",
-    "react-native-reanimated": "~2.1.0",
-    "react-native-screens": "~3.0.0",
-    "react-native-unimodules": "~0.13.3",
-    "react-native-web": "~0.13.12"
+    "@react-native-async-storage/async-storage": "~1.15.0",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/native-stack": "^6.2.5",
+    "expo": "^44.0.4",
+    "expo-google-app-auth": "~8.3.0",
+    "expo-splash-screen": "~0.14.1",
+    "expo-updates": "~0.11.7",
+    "firebase": "^9.6.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-native": "^0.64.3",
+    "react-native-deck-swiper": "^2.0.5",
+    "react-native-gesture-handler": "~2.1.0",
+    "react-native-reanimated": "^2.3.3",
+    "react-native-safe-area-context": "3.3.2",
+    "react-native-screens": "~3.10.1",
+    "react-native-unimodules": "~0.15.0",
+    "react-native-web": "^0.13.18",
+    "tailwind-rn": "^4.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
@@ -26,7 +34,7 @@
     "@types/react-native": "~0.63.2",
     "babel-preset-expo": "~8.3.0",
     "jest-expo": "~41.0.0",
-    "typescript": "~4.0.0"
+    "typescript": "^4.5.4"
   },
   "jest": {
     "preset": "react-native"

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "905192686231",
+    "project_id": "tinde-fire",
+    "storage_bucket": "tinde-fire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905192686231:android:2de50d0cd1c9cadd6edfd2",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905192686231-eltq9irh3kgeg13qeldgqi1qtidr3ue1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.exp.exponent",
+            "certificate_hash": "fa4e6f5e229623768806a31b23829d65fc278b4d"
+          }
+        },
+        {
+          "client_id": "905192686231-1m3tffuec39j6hp7fpk8libi00gnftgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf22ydjt4Zaz2oSStFqnT18XpmRbjfVIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905192686231-1m3tffuec39j6hp7fpk8libi00gnftgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
